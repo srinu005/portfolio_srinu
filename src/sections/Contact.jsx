@@ -7,7 +7,7 @@ export default function Contact() {
   return (
     <section id="contact" style={{ padding: "72px 0 56px", borderTop: `1px solid ${color.line}`, background: "linear-gradient(180deg, #F2F1ED 0%, #E3EBF8 100%)" }}>
       <div style={{ ...container, margin: "0 auto" }}>
-        <span style={sectionLabel}>05 / contact</span>
+        <span style={sectionLabel}>06 / contact</span>
         <h2
           style={{
             fontFamily: font.display,

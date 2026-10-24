@@ -93,3 +93,28 @@ export const education = {
   cgpa: "8.45",
   gate: "GATE CS 2026 -- Rank 27,094",
 };
+export const achievements = [
+  {
+    title: "Certificate of Merit - Naukri Campus Young Turks 2026",
+    issuer: "Naukri Campus (HCLTech presents)",
+    description:
+      "Scored 93.25 percentile in India's largest skill contest, outperforming 93% of participants nationwide.",
+      highlights: [
+      "Certificate Id: 6acf4d5996ebe313e740ff1a",
+    ],
+    demo: "https://www.naukri.com/campus/certificates/young_turks26_round_1_achievement/v0/6acf4d5996ebe313e740ff1a?utm_source=certificate&utm_medium=copy&utm_campaign=6acf4d5996ebe313e740ff1a",
+    demoLabel: "View Certificate",
+  },
+   {
+    title: "Certificate of Participation, AINCAT 2026",
+    issuer: "Naukri Campus",
+    description:
+      "Participated in AINCAT 2026, India's biggest career aptitude test conducted by Naukri Campus.",
+      highlights: [
+        " All India rank : 25029",
+    "Certificate Id: 6a199d7a542fee52d1240cb7",
+    ],
+    demo: "https://www.naukri.com/campus/certificates/nc_ai_ncat_participation_may_2026/v0/6a199d7a542fee52d1240cb7?utm_source=certificate&utm_medium=copy&utm_campaign=6a199d7a542fee52d1240cb7",
+    demoLabel: "View Certificate",
+  },
+];
